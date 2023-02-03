@@ -1,4 +1,4 @@
-# Rust empty template project
+# Rust axum service template project
 
 ### cargo test
 
